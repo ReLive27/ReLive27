@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   </h1>
 </div>
 
@@ -73,14 +73,14 @@ I am a  Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReLive27&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReLive27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReLive27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
 <!-- blog link -->
-<!-- ### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/relive27/test-2fan)
+<!-- - [Test](https://dev.to/relive27/test-2fan) -->
 <!-- BLOG-POST-LIST:END --> -->
 
 
