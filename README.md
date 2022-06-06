@@ -77,9 +77,10 @@ I am a  Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- blog link -->
+<!-- ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://dev.to/relive27/test-2fan)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 
