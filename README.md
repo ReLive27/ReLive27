@@ -52,7 +52,7 @@ I am a  Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on CSDN and read tech articles.
+- :zap: In my free time, I solve problems on [CSDN](https://blog.csdn.net/new_ord) and read tech articles.
 
 ---
 
