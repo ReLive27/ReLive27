@@ -78,9 +78,8 @@ I am a  Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 <!-- blog link -->
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END  -->
 
---- 
 <!-- ### :memo: Recent Activities : -->
