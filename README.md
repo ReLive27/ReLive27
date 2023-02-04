@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 A software engineer who values learning and growing with people, teams, and technologies.
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm a software engineer working on building the backend of web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
