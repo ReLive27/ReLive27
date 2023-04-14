@@ -84,3 +84,10 @@ A software engineer who values learning and growing with people, teams, and tech
 <!-- BLOG-POST-LIST:END  -->
 
 <!-- ### :memo: Recent Activities : -->
+
+<!-- Snake - The picture is generated regularly by actions/Generate Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
